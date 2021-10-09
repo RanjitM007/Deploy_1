@@ -1,4 +1,4 @@
-tkinter>=8.6
+tkinter==8.6
 gunicorn==20.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
